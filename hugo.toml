@@ -85,7 +85,7 @@ disqusShortname = ''
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Michael Quinton"
-  name = "Sidharth R"
+  name = "Michael Quinton"
   description = "Technical Plumber show casing their way through the technical landscape"
 
 # Allow to override webmanifest options
