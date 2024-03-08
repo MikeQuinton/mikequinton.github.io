@@ -23,4 +23,4 @@ Here are the steps I've taken in the challenging yet rewarding process of starti
 - Ran a local Hugo server and customized the configs to suit my needs.
 - Made various commits to the repository while trying to figure out what I'm doing.
 - Configured GitHub Actions to deploy the Hugo blog.
-- Finally, I loaded "mikequinton.github.io," enjoyed the work, and relaxed.
+- Finally, I loaded "mikequinton.github.io", then enjoyed the work, and relaxed.
