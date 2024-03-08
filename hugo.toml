@@ -1,5 +1,7 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://mikequinton.github.io'
+languageCode = 'en'
+DefaultContentLanguage = "en"
+title = 'Mike's Blog'
 
+# Theme as git submodule
 theme = "anatole"
