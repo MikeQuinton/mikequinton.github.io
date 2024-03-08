@@ -9,9 +9,7 @@ Tags:
   - cloud
 ---
 
-For a while now, I've been contemplating the idea of starting a blog to document anything I learn, want to share, fail at, and most importantly, to showcase my projects to a wider audience.
-
-The blog itself will be primarily dedicated to technical topics, although you may occasionally find mentions of other hobbies, such as Brazilian Jiu-Jitsu.
+For a while now, I've been contemplating the idea of starting a blog to document anything I learn, want to share, fail at, and most importantly, to showcase my projects to a wider audience. The blog itself will be primarily dedicated to technical topics, although you may occasionally find mentions of other hobbies, such as Brazilian Jiu-Jitsu.
 
 Overall, I plan to treat this as a place to discuss my journey from being an Infrastructure Engineer to understanding and stepping into the DevOps world.
 
