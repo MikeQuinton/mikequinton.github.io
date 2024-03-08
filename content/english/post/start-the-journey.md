@@ -23,4 +23,4 @@ My steps into the pain and experience of starting a blog and bring it to life:
 - Ran a local hugo server and customise the configs for myself
 - Done various commits to repository whilst trying to figure out what I am doing
 - Configure github actions to deploy the hugo blog
-- Loaded "https://mikequinton.githun.io", enjoyed the work and relaxed
+- Loaded "mikequinton.github.io", enjoyed the work and relaxed
