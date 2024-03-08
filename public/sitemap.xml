@@ -2,22 +2,22 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://localhost:1313/en-gb/sitemap.xml</loc>
+    <loc>https://hba.sid.one/en-gb/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:1313/de-de/sitemap.xml</loc>
+    <loc>https://hba.sid.one/de-de/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:1313/ru-ru/sitemap.xml</loc>
+    <loc>https://hba.sid.one/ru-ru/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:1313/it/sitemap.xml</loc>
+    <loc>https://hba.sid.one/it/sitemap.xml</loc>
     
   </sitemap>
   

@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/de-de/</loc>
+    <loc>https://hba.sid.one/de-de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="http://localhost:1313/"
+                href="https://hba.sid.one/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru-ru/"
+                href="https://hba.sid.one/ru-ru/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://localhost:1313/it/"
+                href="https://hba.sid.one/it/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="http://localhost:1313/de-de/"
+                href="https://hba.sid.one/de-de/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de-de/categories/</loc>
+    <loc>https://hba.sid.one/de-de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="http://localhost:1313/categories/"
+                href="https://hba.sid.one/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru-ru/categories/"
+                href="https://hba.sid.one/ru-ru/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://localhost:1313/it/categories/"
+                href="https://hba.sid.one/it/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="http://localhost:1313/de-de/categories/"
+                href="https://hba.sid.one/de-de/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de-de/tags/</loc>
+    <loc>https://hba.sid.one/de-de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="http://localhost:1313/tags/"
+                href="https://hba.sid.one/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru-ru/tags/"
+                href="https://hba.sid.one/ru-ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://localhost:1313/it/tags/"
+                href="https://hba.sid.one/it/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="http://localhost:1313/de-de/tags/"
+                href="https://hba.sid.one/de-de/tags/"
                 />
   </url>
 </urlset>
