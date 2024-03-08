@@ -3,7 +3,7 @@ title = "Michael Quinton"
 author = "Michael Quinton"
 #copyright = "2020-2021"
 description = "Technical Plumber showcasing their way through the technical landscape"
-profilePicture = "static/images/profile.jpg"
+profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
@@ -59,22 +59,17 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://www.linkedin.com/in/mikepquinton/"
 
 [[socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
-
-[[socialIcons]]
-icon = "fab fa-instagram"
-title = "instagram"
-url = "https://www.instagram.com/"
+url = "https://github.com/MikeQuinton"
 
 [[socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:mail@example.com"
+url = "mailto:michael@quinton.io"
 
 [mermaid]
 # enable = true
