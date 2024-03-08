@@ -9,18 +9,18 @@ Tags:
   - cloud
 ---
 
-For a while now I've been sitting on the idea of starting a blog to go over anything I learn, want to share, fail on and most imporantly to showcase my projects to the wider audience.
+For a while now, I've been contemplating the idea of starting a blog to document anything I learn, want to share, fail at, and most importantly, to showcase my projects to a wider audience.
 
-The blog itself will be dedicated mostly to the technical troubles in the world but you may see the occasional sprinkle of other hobbies dotted around. Brazilian Jiu jitsu being one of them.
+The blog itself will be primarily dedicated to technical topics, although you may occasionally find mentions of other hobbies, such as Brazilian Jiu-Jitsu.
 
-Overall, I plan to treat this as place to talk about my journey from an Infrastructure Engineer through to understanding and stepping into the DevOps world.
+Overall, I plan to treat this as a place to discuss my journey from being an Infrastructure Engineer to understanding and stepping into the DevOps world.
 
-My steps into the pain and experience of starting a blog and bring it to life:
+Here are the steps I've taken in the challenging yet rewarding process of starting and bringing a blog to life:
 
-- Go through various blogs and articles talking about static site generators
-- Tried Pelican but decided on Hugo, overall just seemed nicer to work with
-- Used various themes but settled on anatole
-- Ran a local hugo server and customise the configs for myself
-- Done various commits to repository whilst trying to figure out what I am doing
-- Configure github actions to deploy the hugo blog
-- Loaded "mikequinton.github.io", enjoyed the work and relaxed
+- I explored various blogs and articles discussing static site generators.
+- Tried Pelican but ultimately decided on Hugo; it just seemed more user-friendly.
+- Experimented with various themes but settled on Anatole.
+- Ran a local Hugo server and customized the configs to suit my needs.
+- Made various commits to the repository while trying to figure out what I'm doing.
+- Configured GitHub Actions to deploy the Hugo blog.
+- Finally, I loaded "mikequinton.github.io," enjoyed the work, and relaxed.
