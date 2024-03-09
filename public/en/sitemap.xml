@@ -15,6 +15,15 @@
                 href="http://localhost:1313/"
                 />
   </url><url>
+    <loc>http://localhost:1313/tags/blog/</loc>
+    <lastmod>2024-03-08T19:56:06+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cloud/</loc>
+    <lastmod>2024-03-08T19:56:06+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/devops/</loc>
+    <lastmod>2024-03-08T19:56:06+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/index/</loc>
     <lastmod>2024-03-08T19:56:06+00:00</lastmod>
   </url><url>
