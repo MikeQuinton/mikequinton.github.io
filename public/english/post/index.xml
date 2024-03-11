@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My blog</title>
+    <link>http://localhost:1313/english/post/</link>
+    <description>Recent content in Posts on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 08 Mar 2024 19:56:06 +0000</lastBuildDate><atom:link href="http://localhost:1313/english/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Starting the Journey</title>
+      <link>http://localhost:1313/english/post/start-the-journey/</link>
+      <pubDate>Fri, 08 Mar 2024 19:56:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/post/start-the-journey/</guid>
+      
+        <description>Post explaining the start of my blog</description>
+      
+    </item>
+    
+    <item>
+      <title>The Notice Shortcode</title>
+      <link>http://localhost:1313/english/post/notice-shortcode/</link>
+      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/post/notice-shortcode/</guid>
+      
+        <description>The notice shortcode supports three different types of disclaimers. These are as following:</description>
+      
+    </item>
+    
+  </channel>
+</rss>
