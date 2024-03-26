@@ -1,25 +1,34 @@
-+++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
-+++
+Hey there! My name is Michael Quinton.
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+I'm an Infrastructure Engineer from the UK, living here in the UK. By day, I troubleshoot technical issues, implement new solutions, and in my free time, I'm all about crafting scalable, secure, and automated cloud solutions. Right now, I'm diving into Terraform, Python and AWS, along with whatever else grabs my interest in the tech world. I've been in the tech profession for about 10+ years now and look forward to continuing it.
 
-Hugo makes use of a variety of open source projects including:
+👨🏼‍💻 **What I'm learning:**
+- Kubernetes
+- Terraform
+- Python
+- AWS
+- CI/CD
+- Whatever else catches my eye!
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+🌈 **For fun:**
+- Challenging myself in Jiu-Jitsu, and occasionally nursing my injuries
+- Trying not to faceplant while learning to snowboard
+- Enjoying some not-so-healthy snacks
+- Hanging out with my cat, Eevee!
+- Taking in the breathtaking views of Iceland or Austria when I can
+- Embracing whatever life throws my way
+- Squeezing in some video game time when I can
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+**If you're:**
+- Looking for someone to geek out with about tech
+- Wanting to collaborate or chat about my profile
+- Curious about my tech journey or life experiences
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+**You can find me at:**
+- **Github**: [MikeQuinton](https://github.com/mikequinton)
+- **LinkedIn**: [mikepquinton](https://www.linkedin.com/in/mikepquinton/)
+- **Email**: [michael@quinton.io](mailto:michael@quinton.io)
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+Feel free to drop me a line about anything interesting. And if there's any way I can help you out, just give me a shout!
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Stay tuned for more projects and updates on my journey!

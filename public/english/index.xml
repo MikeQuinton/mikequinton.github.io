@@ -52,13 +52,14 @@
     </item>
     
     <item>
-      <title>About</title>
+      <title></title>
       <link>http://localhost:1313/english/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/english/about/</guid>
       
-        <description>Hugo, the world&#39;s fastest framework for building websites</description>
+        <description>Hey there! My name is Michael Quinton.
+I&amp;rsquo;m an Infrastructure Engineer from the UK, living here in the UK.</description>
       
     </item>
     
