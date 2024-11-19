@@ -1,6 +1,6 @@
 Hey there! My name is Michael Quinton.
 
-I'm an Infrastructure Engineer from the UK, living here in the UK. By day, I troubleshoot technical issues, implement new solutions, and in my free time, I'm all about crafting scalable, secure, and automated cloud solutions. Right now, I'm diving into Terraform, Python and AWS, along with whatever else grabs my interest in the tech world. I've been in the tech profession for about 10+ years now and look forward to continuing it.
+I'm an Infrastructure Engineer from the UK, living here in Germany. By day, I troubleshoot technical issues, implement new solutions, and in my free time, I'm all about crafting scalable, secure, and automated cloud solutions. Right now, I'm diving into Terraform, Python and AWS, along with whatever else grabs my interest in the tech world. I've been in the tech profession for about 10+ years now and look forward to continuing it.
 
 👨🏼‍💻 **What I'm learning:**
 - Kubernetes
