@@ -1,0 +1,24 @@
+# Hugo-generated content
+/public/
+/resources/_gen/
+
+# Hugo executable binaries
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# Temporary files
+.hugo_build.lock
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node.js dependencies (if applicable)
+node_modules/
